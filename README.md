@@ -77,6 +77,8 @@
 | 71  | [Which statement about the 'embrace change' target is CORRECT?](#which-statement-about-the-embrace-change-target-is-correct-1)
 | 72  | [Which statement defines a PRINCE2 principle?](#which-statement-defines-a-prince2-principle)
 | 73  | [Which is the BEST method of communication to gather feedback?](#which-is-the-best-method-of-communication-to-gather-feedback)
+| 74  | [Which statement about quality tolerances for a product is CORRECT in an agile context?](#which-statement-about-quality-tolerances-for-a-product-is-correct-in-an-agile-context)
+| 75  | [How does agile address the risk associated with the project not being fully understood at the beginning?](#how-does-agile-address-the-risk-associated-with-the-project-not-being-fully-understood-at-the-beginning)
 
 ### Whose interests are specifically represented by the senior supplier?  1. Those ensuring the project is value for money. 2. Those who will use the project's products. 3. Those who will be developing the project's products. 4. Those responsible for the project's technical integrity.
 
@@ -125,9 +127,9 @@
 
 ### Which TWO are the purposes of a highlight report?
 
-- [ ] To describe the MoSCoW priority of user stories..
-- [ ] To summarize the status of a work package..
-- [x] To summarize the stage status..
+- [ ] To describe the MoSCoW priority of user stories.
+- [ ] To summarize the status of a work package.
+- [x] To summarize the stage status.
 - [ ] To report any potential issues and risks.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -665,7 +667,7 @@
 ### Which is a purpose of the 'managing product delivery' process?
 
 - [ ] To plan the delivery of the products before committing to significant expenditure.
-- [x] To agree on what is required for accepting, executing and delivering project work..
+- [x] To agree on what is required for accepting, executing and delivering project work.
 - [ ] To establish and deliver the project communications to the wider organization.
 - [ ] To delegate day-to-day management of the project to the project manager.
 
@@ -731,5 +733,23 @@
 - [ ] Conducting online surveys to obtain a range of opinions.
 - [x] Meeting face-to-face to encourage an exchange of views.
 - [ ] Discussing over the telephone to gather feedback quickly from stakeholders.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which statement about quality tolerances for a product is CORRECT in an agile context?
+
+- [ ] All quality criteria tolerance must be fixed.
+- [ ] Quality tolerances should be the same for all quality criteria.
+- [x] Setting quality tolerance relies on prioritising quality criteria.
+- [ ] All quality criteria should have zero tolerance.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### How does agile address the risk associated with the project not being fully understood at the beginning?
+
+- [ ] By allowing a lot of detail at the start.
+- [ ] By avoiding too much detail at the start.
+- [ ] By requiring details at the start.
+- [x] By preventing the analysis of details at the start.
 
 **[⬆ Back to Top](#table-of-contents)**
