@@ -1,5 +1,7 @@
 # ⬆️ PRINCE2 Agile Foundation Tests Exams Questions & Answers
 
+![Promotional image](images/promotional.png)
+
 ## Table of Contents
 
 | No. | Questions |
