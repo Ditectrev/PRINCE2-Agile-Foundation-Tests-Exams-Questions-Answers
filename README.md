@@ -2,37 +2,100 @@
 
 ![Promotional image](images/promotional.png)
 
+## Udemy & shop.ditectrev.com
+
+❣️ Please support us by purchasing this course on Udemy in an interactive version with the [discounted link](https://www.udemy.com/user/social-ditectrev/). If you're working for a company, you could most probably easily claim this expense during preparation for your exam. For us, it's to be, or not to be, in the game.
+
+🛍️ Alternatively, you can buy the PDF with those questions on [shop.ditectrev.com](https://shop.ditectrev.com/).
+
+## ✨ This course is unlike any PRINCE2 Agile Foundation course you will find online.
+
+✋ Join a live online community and a course taught by industry experts and pass the PRINCE2 Agile Foundation confidently. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
+
+[![Join our Discord](images/discord.png 'Join our Discord')](https://discord.gg/RFjtXKfJy3)
+
+## ⌛️ Short and to the point; why should you take the course:
+
+1. Always happy to answer your questions on Udemy's Q&A's and outside :)
+2. Failed? Please submit a screenshot of your exam result and request a refund (via our upcoming platform, not possible on Udemy); we'll always accept it.
+3. Learn about topics, such as:
+   - Agile;
+   - Gantt charts;
+   - Information Radiator;
+   - Kanban;
+   - Lean Startup;
+   - PRINCE2 Agile;
+   - Releases;
+   - Scrum;
+   - Timeboxes;
+   - Waterfall;
+   - **Much More!**
+4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
+5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
+6. This course is **not** an PRINCE2 Agile Foundation Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
+7. 75 **unique** questions.
+
+## ☝️ Course Updates
+
+**[v1.0.0](../../releases/tag/v1.0.0): July XX, 2024.**
+
+- Launch of the course.
+
+## 🙋‍♀️ & 🙋‍♂️ Contribution
+
+We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
+
+## Who this course is for:
+
+- 👨‍🎓 Students preparing for the PRINCE2 Agile Foundation Exam;
+- 👨‍🎓 IT Professionals;
+- 👨‍🎓 Lead Engineers;
+- 👨‍🎓 Product Managers;
+- 👨‍🎓 Product Owners;
+- 👨‍🎓 Project Managers;
+- 👨‍🎓 Scrum Masters;
+- 👨‍🎓 Software Developers/Engineers;
+- 👨‍🎓 Software Testers;
+- 👨‍🎓 Solution Architects;
+- 👨‍🎓 Team Leaders.
+
+## Requirements
+
+- 🤩 Excitement to learn!
+- 0️⃣ Prior knowledge is required;
+- ✅ You can pass the PRINCE2 Agile Foundation Exam solely based on our Practice Tests Exams.
+
 ## Table of Contents
 
 | No. | Questions |
 | --- | --------- |
 | 1   | [Whose interests are specifically represented by the senior supplier?  1. Those ensuring the project is value for money. 2. Those who will use the project's products. 3. Those who will be developing the project's products. 4. Those responsible for the project's technical integrity.](#whose-interests-are-specifically-represented-by-the-senior-supplier--1-those-ensuring-the-project-is-value-for-money-2-those-who-will-use-the-projects-products-3-those-who-will-be-developing-the-projects-products-4-those-responsible-for-the-projects-technical-integrity)
 | 2   | [Which is a key objective of running a workshop?](#which-is-a-key-objective-of-running-a-workshop)
-| 3   | [Which statement about the waterfall methodology definition is CORRECT?](#which-statement-about-the-waterfall-methodology-definition-is-correct)
+| 3   | [Which statement about the Waterfall methodology definition is CORRECT?](#which-statement-about-the-waterfall-methodology-definition-is-correct)
 | 4   | [How should product-based planning be used as part of PRINCE2 Agile?](#how-should-product-based-planning-be-used-as-part-of-prince2-agile)
 | 5   | [Which statement about the 'directing a project' process is CORRECT?](#which-statement-about-the-directing-a-project-process-is-correct)
 | 6   | [Which TWO are the purposes of a highlight report?](#which-two-are-the-purposes-of-a-highlight-report)
 | 7   | [To help with prioritization, what is MOST important when understanding the difference between scope and quality?](#to-help-with-prioritization-what-is-most-important-when-understanding-the-difference-between-scope-and-quality)
 | 8   | [Why is Lean Startup included in the 'starting up a project' process in PRINCE2 Agile?](#why-is-lean-startup-included-in-the-starting-up-a-project-process-in-prince2-agile)
-| 9   | [Which process can take place during a release review workshop?](#which-process-can-take-place-during-a-release-review-workshop)
+| 9   | [Which process can take place during a Release review workshop?](#which-process-can-take-place-during-a-release-review-workshop)
 | 10  | [Which BEST describes the senior user role when tailoring the organization theme?](#which-best-describes-the-senior-user-role-when-tailoring-the-organization-theme)
 | 11  | [What term is used to describe boards that display what work needs to be completed for people working on a project?](#what-term-is-used-to-describe-boards-that-display-what-work-needs-to-be-completed-for-people-working-on-a-project)
 | 12  | [Which two statements about tailoring the business case in an agile environment are CORRECT? 1. It should be unnecessary because products of the highest value will be delivered first. 2. It should identify the minimum viable product and when it will be delivered. 3. It should take into account that the scope may be reduced during the course of the project. 4. It should show the features, the order in which they will be delivered and any dependencies.](#which-two-statements-about-tailoring-the-business-case-in-an-agile-environment-are-correct-1-it-should-be-unnecessary-because-products-of-the-highest-value-will-be-delivered-first-2-it-should-identify-the-minimum-viable-product-and-when-it-will-be-delivered-3-it-should-take-into-account-that-the-scope-may-be-reduced-during-the-course-of-the-project-4-it-should-show-the-features-the-order-in-which-they-will-be-delivered-and-any-dependencies)
 | 13  | [What should the business case state about the minimum viable product (MVP)?](#what-should-the-business-case-state-about-the-minimum-viable-product-mvp)
 | 14  | [How does the change theme regard change in PRINCE2 Agile?](#how-does-the-change-theme-regard-change-in-prince2-agile)
 | 15  | [Which statement about the 'keep teams stable' target is CORRECT?](#which-statement-about-the-keep-teams-stable-target-is-correct)
-| 16  | [What needs to happen when new detailed requirements are added to a timebox?](#what-needs-to-happen-when-new-detailed-requirements-are-added-to-a-timebox)
+| 16  | [What needs to happen when new detailed requirements are added to a Timebox?](#what-needs-to-happen-when-new-detailed-requirements-are-added-to-a-timebox)
 | 17  | [Which statement about the 'accept that the customer doesn't need everything' target is correct?](#which-statement-about-the-accept-that-the-customer-doesnt-need-everything-target-is-correct)
 | 18  | [Which statement about velocity is CORRECT?](#which-statement-about-velocity-is-correct)
 | 19  | [Which is a purpose of the 'controlling stage' process?](#which-is-a-purpose-of-the-controlling-stage-process)
 | 20  | [Which is a typical characteristic of 'business as usual' work?](#which-is-a-typical-characteristic-of-business-as-usual-work)
 | 21  | [Which is a benefit of the Lean Startup approach to releasing a product?](#which-is-a-benefit-of-the-lean-startup-approach-to-releasing-a-product)
-| 22  | [What is the definition of a timebox?](#what-is-the-definition-of-a-timebox)
+| 22  | [What is the definition of a Timebox?](#what-is-the-definition-of-a-timebox)
 | 23  | [Which statement explains the PRINCE2 Agile behavior of 'exploration'?](#which-statement-explains-the-prince2-agile-behavior-of-exploration)
 | 24  | [According to PRINCE2 Agile, which form of communication shows that a team is vibrant and interactive?](#according-to-prince2-agile-which-form-of-communication-shows-that-a-team-is-vibrant-and-interactive)
 | 25  | [How is the 'tailor to suit the project' principle applied in an agile context?](#how-is-the-tailor-to-suit-the-project-principle-applied-in-an-agile-context)
 | 26  | [Which is often used during a retrospective to capture lessons?](#which-is-often-used-during-a-retrospective-to-capture-lessons)
-| 27  | [During which process should release planning be done for the FIRST time?](#during-which-process-should-release-planning-be-done-for-the-first-time)
+| 27  | [During which process should Release planning be done for the FIRST time?](#during-which-process-should-release-planning-be-done-for-the-first-time)
 | 28  | [Which statement explains how the 'learn from experience' principle is applied in an agile context?](#which-statement-explains-how-the-learn-from-experience-principle-is-applied-in-an-agile-context)
 | 29  | [Which is a reason for releasing a product into a staging area?](#which-is-a-reason-for-releasing-a-product-into-a-staging-area)
 | 30  | [Which PRINCE2 principle should be followed in order to engage the business, user and supplier stakeholder interests?](#which-prince2-principle-should-be-followed-in-order-to-engage-the-business-user-and-supplier-stakeholder-interests)
@@ -59,7 +122,7 @@
 | 51  | [Which statement about the"accept that the customer doesn't need everything" target is CORRECT?](#which-statement-about-theaccept-that-the-customer-doesnt-need-everything-target-is-correct)
 | 52  | [When tailoring PRINCE2, what does PRINCE2 Agile guidance cover?](#when-tailoring-prince2-what-does-prince2-agile-guidance-cover)
 | 53  | [What does velocity typically measure?](#what-does-velocity-typically-measure)
-| 54  | [Which TWO statements about the typical tailoring of a checkpoint report in an agile environment are CORRECT? 1. It should be replaced by the project manager attending a daily stand-up. 2. It should be displayed in the form of an information radiator in a team room. 3. It should be produced when the amount to be delivered will result in tolerance being exceeded. 4. It should be produced in a product backlog in the form of prioritized user stories.](#which-two-statements-about-the-typical-tailoring-of-a-checkpoint-report-in-an-agile-environment-are-correct-1-it-should-be-replaced-by-the-project-manager-attending-a-daily-stand-up-2-it-should-be-displayed-in-the-form-of-an-information-radiator-in-a-team-room-3-it-should-be-produced-when-the-amount-to-be-delivered-will-result-in-tolerance-being-exceeded-4-it-should-be-produced-in-a-product-backlog-in-the-form-of-prioritized-user-stories)
+| 54  | [Which TWO statements about the typical tailoring of a checkpoint report in an agile environment are CORRECT? 1. It should be replaced by the project manager attending a daily stand-up. 2. It should be displayed in the form of an Information Radiator in a team room. 3. It should be produced when the amount to be delivered will result in tolerance being exceeded. 4. It should be produced in a product backlog in the form of prioritized user stories.](#which-two-statements-about-the-typical-tailoring-of-a-checkpoint-report-in-an-agile-environment-are-correct-1-it-should-be-replaced-by-the-project-manager-attending-a-daily-stand-up-2-it-should-be-displayed-in-the-form-of-an-information-radiator-in-a-team-room-3-it-should-be-produced-when-the-amount-to-be-delivered-will-result-in-tolerance-being-exceeded-4-it-should-be-produced-in-a-product-backlog-in-the-form-of-prioritized-user-stories)
 | 55  | [When creating the project product description, how should the purpose of the project product be defined?](#when-creating-the-project-product-description-how-should-the-purpose-of-the-project-product-be-defined)
 | 56  | [Which is a purpose of the plans theme?](#which-is-a-purpose-of-the-plans-theme)
 | 57  | [Which should be an objective of a retrospective?](#which-should-be-an-objective-of-a-retrospective)
@@ -68,8 +131,8 @@
 | 60  | [What should be emphasized when tailoring the PRINCE2 Progress theme?](#what-should-be-emphasized-when-tailoring-the-prince2-progress-theme)
 | 61  | [When should PRINCE2 Agile be used?](#when-should-prince2-agile-be-used)
 | 62  | [Which statement about the 'protect the level of quality' target is CORRECT?](#which-statement-about-the-protect-the-level-of-quality-target-is-correct-1)
-| 63  | [What is the MOST LIKELY benefit from frequent releases into operational use?](#what-is-the-most-likely-benefit-from-frequent-releases-into-operational-use)
-| 64  | [Which is an advantage of frequent releases?](#which-is-an-advantage-of-frequent-releases)
+| 63  | [What is the MOST LIKELY benefit from frequent Releases into operational use?](#what-is-the-most-likely-benefit-from-frequent-releases-into-operational-use)
+| 64  | [Which is an advantage of frequent Releases?](#which-is-an-advantage-of-frequent-releases)
 | 65  | [Which TWO statements describe a purpose of the business case? 1. To define the acceptance criteria for what the project must deliver. 2. To transfer responsibility for the work to the appropriate delivery team. 3. To document how significant risks will affect the expected project benefits. 4. To outline how and when the anticipated benefits can be measured.](#which-two-statements-describe-a-purpose-of-the-business-case-1-to-define-the-acceptance-criteria-for-what-the-project-must-deliver-2-to-transfer-responsibility-for-the-work-to-the-appropriate-delivery-team-3-to-document-how-significant-risks-will-affect-the-expected-project-benefits-4-to-outline-how-and-when-the-anticipated-benefits-can-be-measured)
 | 66  | [Which is a purpose of the 'managing product delivery' process?](#which-is-a-purpose-of-the-managing-product-delivery-process)
 | 67  | [How does PRINCE2 Agile describe Scrum?](#how-does-prince2-agile-describe-scrum)
@@ -100,7 +163,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which statement about the waterfall methodology definition is CORRECT?
+### Which statement about the Waterfall methodology definition is CORRECT?
 
 - [ ] It states that deadlines should not be moved.
 - [x] It has distinct goals for each stage of development.
@@ -154,7 +217,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which process can take place during a release review workshop?
+### Which process can take place during a Release review workshop?
 
 - [ ] Controlling a stage.
 - [x] Managing product delivery.
@@ -175,7 +238,7 @@
 ### What term is used to describe boards that display what work needs to be completed for people working on a project?
 
 - [ ] Work in progress limit.
-- [x] Information radiator.
+- [x] Information Radiator.
 - [ ] Highlight report.
 - [ ] Glad! Sad! Mad!.
 
@@ -217,7 +280,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What needs to happen when new detailed requirements are added to a timebox?
+### What needs to happen when new detailed requirements are added to a Timebox?
 
 - [x] Requirements of a similar level of effort should be removed.
 - [ ] More people should be added to the delivery team.
@@ -238,9 +301,9 @@
 ### Which statement about velocity is CORRECT?
 
 - [ ] It is based on the concept of rationalism.
-- [ ] It is shown by the ideal line on a bum-down chart.
+- [ ] It is shown by the ideal line on a burn-down chart.
 - [x] It describes how much work is getting done.
-- [ ] It tracks the time and cost of a timebox.
+- [ ] It tracks the time and cost of a Timebox.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -264,14 +327,14 @@
 
 ### Which is a benefit of the Lean Startup approach to releasing a product?
 
-- [ ] It provide a technique to reduce the testing of a product before release.
-- [x] It enables the release plans to be synchronized with the PRINCE2 plans.
-- [ ] It reduces the number of people needed to manage a release of a product.
+- [ ] It provide a technique to reduce the testing of a product before Release.
+- [x] It enables the Release plans to be synchronized with the PRINCE2 plans.
+- [ ] It reduces the number of people needed to manage a Release of a product.
 - [ ] It provides quick feedback that can be responded to at the earliest opportunity.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the definition of a timebox?
+### What is the definition of a Timebox?
 
 - [ ] A tool to write a requirement in the form of who, what and why.
 - [ ] A regular event that looks at how processes can be improved.
@@ -303,7 +366,7 @@
 - [x] By flexing what is produced to stay in control and deliver value.
 - [ ] By emphasizing tolerances on what is being delivered.
 - [ ] By using the Agilometer to assess the project environment.
-- [ ] By fitting releases into planned management stages.
+- [ ] By fitting Releases into planned management stages.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -316,7 +379,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### During which process should release planning be done for the FIRST time?
+### During which process should Release planning be done for the FIRST time?
 
 - [ ] Initiating a project.
 - [x] Managing a stage boundary.
@@ -328,7 +391,7 @@
 ### Which statement explains how the 'learn from experience' principle is applied in an agile context?
 
 - [ ] It focuses on the prioritization and decomposition of requirements.
-- [ ] It integrates releases within management stages.
+- [ ] It integrates Releases within management stages.
 - [x] It is supported by the inspect and adapt concept.
 - [ ] It provides guidance on mapping PRINCE2 roles to an agile environment.
 
@@ -353,7 +416,7 @@
 **[⬆ Back to Top](#table-of-contents)**
 
 ### When tracking progress, which term describes using agile techniques at the delivery level, and traditional techniques at the direction and management levels?
-.
+
 - [ ] Preferable.
 - [ ] Typical.
 - [x] Effective.
@@ -558,7 +621,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which TWO statements about the typical tailoring of a checkpoint report in an agile environment are CORRECT? 1. It should be replaced by the project manager attending a daily stand-up. 2. It should be displayed in the form of an information radiator in a team room. 3. It should be produced when the amount to be delivered will result in tolerance being exceeded. 4. It should be produced in a product backlog in the form of prioritized user stories.
+### Which TWO statements about the typical tailoring of a checkpoint report in an agile environment are CORRECT? 1. It should be replaced by the project manager attending a daily stand-up. 2. It should be displayed in the form of an Information Radiator in a team room. 3. It should be produced when the amount to be delivered will result in tolerance being exceeded. 4. It should be produced in a product backlog in the form of prioritized user stories.
 
 - [ ] 1 and 2.
 - [x] 2 and 3.
@@ -598,7 +661,7 @@
 
 - [ ] Agilometer assessment.
 - [ ] Product backlog.
-- [x] Information radiator.
+- [x] Information Radiator.
 - [ ] User story.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -635,11 +698,11 @@
 - [x] It is achieved by ensuring that all features are delivered.
 - [ ] It is unlikely to be achieved if incomplete user documentation is provided.
 - [ ] It allows change at the detailed level to be handled dynamically.
-- [ ] It avoids the use of extra people to improve progress during a timebox.
+- [ ] It avoids the use of extra people to improve progress during a Timebox.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the MOST LIKELY benefit from frequent releases into operational use?
+### What is the MOST LIKELY benefit from frequent Releases into operational use?
 
 - [x] Feedback is obtained from real customers.
 - [ ] The need for customer involvement is increased.
@@ -648,7 +711,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is an advantage of frequent releases?
+### Which is an advantage of frequent Releases?
 
 - [ ] Releases can be used to replace management stages.
 - [ ] A 'one-team' culture in the project team is encouraged.
@@ -686,7 +749,7 @@
 
 ### Which statement about the 'directing a project' process is CORRECT?
 
-- [ ] The project board may pull reports from the information radiator.
+- [ ] The project board may pull reports from the Information Radiator.
 - [ ] As a minimum, the project board should receive oral reports from the project manager.
 - [ ] The project board should attend the delivery team's daily stand up meeting.
 - [x] The project board should receive regular reports focusing on cost and time overruns.
