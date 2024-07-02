@@ -119,7 +119,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 48  | [Which is an advantage of using the PRINCE2 Agile behavior 'collaboration'?](#which-is-an-advantage-of-using-the-prince2-agile-behavior-collaboration)
 | 49  | [Which is typically used in agile when estimating detailed requirements during sprint planning?](#which-is-typically-used-in-agile-when-estimating-detailed-requirements-during-sprint-planning)
 | 50  | [When tailoring the plans theme in an agile environment, what is recommended about using a Gantt chart?](#when-tailoring-the-plans-theme-in-an-agile-environment-what-is-recommended-about-using-a-gantt-chart)
-| 51  | [Which statement about the"accept that the customer doesn't need everything" target is CORRECT?](#which-statement-about-theaccept-that-the-customer-doesnt-need-everything-target-is-correct)
+| 51  | [Which statement about the 'accept that the customer doesn't need everything' target is CORRECT?](#which-statement-about-the-accept-that-the-customer-doesnt-need-everything-target-is-correct)
 | 52  | [When tailoring PRINCE2, what does PRINCE2 Agile guidance cover?](#when-tailoring-prince2-what-does-prince2-agile-guidance-cover)
 | 53  | [What does velocity typically measure?](#what-does-velocity-typically-measure)
 | 54  | [Which TWO statements about the typical tailoring of a checkpoint report in an agile environment are CORRECT? 1. It should be replaced by the project manager attending a daily stand-up. 2. It should be displayed in the form of an Information Radiator in a team room. 3. It should be produced when the amount to be delivered will result in tolerance being exceeded. 4. It should be produced in a product backlog in the form of prioritized user stories.](#which-two-statements-about-the-typical-tailoring-of-a-checkpoint-report-in-an-agile-environment-are-correct-1-it-should-be-replaced-by-the-project-manager-attending-a-daily-stand-up-2-it-should-be-displayed-in-the-form-of-an-information-radiator-in-a-team-room-3-it-should-be-produced-when-the-amount-to-be-delivered-will-result-in-tolerance-being-exceeded-4-it-should-be-produced-in-a-product-backlog-in-the-form-of-prioritized-user-stories)
@@ -127,7 +127,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 56  | [Which is a purpose of the plans theme?](#which-is-a-purpose-of-the-plans-theme)
 | 57  | [Which should be an objective of a retrospective?](#which-should-be-an-objective-of-a-retrospective)
 | 58  | [What is typically displayed on a board to show progress to people working on a project?](#what-is-typically-displayed-on-a-board-to-show-progress-to-people-working-on-a-project)
-| 59  | [How is the "learn from experience" principle applied in an agile context?](#how-is-the-learn-from-experience-principle-applied-in-an-agile-context)
+| 59  | [How is the 'learn from experience' principle applied in an agile context?](#how-is-the-learn-from-experience-principle-applied-in-an-agile-context)
 | 60  | [What should be emphasized when tailoring the PRINCE2 Progress theme?](#what-should-be-emphasized-when-tailoring-the-prince2-progress-theme)
 | 61  | [When should PRINCE2 Agile be used?](#when-should-prince2-agile-be-used)
 | 62  | [Which statement about the 'protect the level of quality' target is CORRECT?](#which-statement-about-the-protect-the-level-of-quality-target-is-correct-1)
@@ -594,7 +594,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which statement about the"accept that the customer doesn't need everything" target is CORRECT?
+### Which statement about the 'accept that the customer doesn't need everything' target is CORRECT?
 
 - [ ] It is achieved by testing only a few features to deliver on time.
 - [ ] It is achieved by ensuring that the operational product has complete documentation.
@@ -666,7 +666,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### How is the "learn from experience" principle applied in an agile context?
+### How is the 'learn from experience' principle applied in an agile context?
 
 - [ ] By ensuring control through lots of short stages during innovative projects.
 - [ ] By using the Agilometer to assess risks associated with the agile way of working.
