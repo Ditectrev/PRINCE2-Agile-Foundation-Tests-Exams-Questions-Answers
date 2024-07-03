@@ -69,7 +69,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 | No. | Questions |
 | --- | --------- |
-| 1   | [Whose interests are specifically represented by the senior supplier?  1. Those ensuring the project is value for money. 2. Those who will use the project's products. 3. Those who will be developing the project's products. 4. Those responsible for the project's technical integrity.](#whose-interests-are-specifically-represented-by-the-senior-supplier--1-those-ensuring-the-project-is-value-for-money-2-those-who-will-use-the-projects-products-3-those-who-will-be-developing-the-projects-products-4-those-responsible-for-the-projects-technical-integrity)
+| 1   | [Whose interests are specifically represented by the senior supplier? 1. Those ensuring the project is value for money. 2. Those who will use the project's products. 3. Those who will be developing the project's products. 4. Those responsible for the project's technical integrity.](#whose-interests-are-specifically-represented-by-the-senior-supplier-1-those-ensuring-the-project-is-value-for-money-2-those-who-will-use-the-projects-products-3-those-who-will-be-developing-the-projects-products-4-those-responsible-for-the-projects-technical-integrity)
 | 2   | [Which is a key objective of running a workshop?](#which-is-a-key-objective-of-running-a-workshop)
 | 3   | [Which statement about the Waterfall methodology definition is CORRECT?](#which-statement-about-the-waterfall-methodology-definition-is-correct)
 | 4   | [How should product-based planning be used as part of PRINCE2 Agile?](#how-should-product-based-planning-be-used-as-part-of-prince2-agile)
@@ -145,7 +145,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 74  | [Which statement about quality tolerances for a product is CORRECT in an agile context?](#which-statement-about-quality-tolerances-for-a-product-is-correct-in-an-agile-context)
 | 75  | [How does agile address the risk associated with the project not being fully understood at the beginning?](#how-does-agile-address-the-risk-associated-with-the-project-not-being-fully-understood-at-the-beginning)
 
-### Whose interests are specifically represented by the senior supplier?  1. Those ensuring the project is value for money. 2. Those who will use the project's products. 3. Those who will be developing the project's products. 4. Those responsible for the project's technical integrity.
+### Whose interests are specifically represented by the senior supplier? 1. Those ensuring the project is value for money. 2. Those who will use the project's products. 3. Those who will be developing the project's products. 4. Those responsible for the project's technical integrity.
 
 - [ ] 1 and 2.
 - [ ] 2 and 3.
