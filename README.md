@@ -1,12 +1,12 @@
-# ⬆️ PRINCE2 Agile Foundation Tests Exams Questions & Answers
+# ⬆️ PRINCE2 Agile Foundation Practice Tests Exams Questions & Answers
 
 ![Promotional image](images/promotional.png)
 
 ## Udemy & shop.ditectrev.com
 
-❣️ Please support us by purchasing this course on Udemy in an interactive version with the [discounted link](https://www.udemy.com/user/social-ditectrev/). If you're working for a company, you could most probably easily claim this expense during preparation for your exam. For us, it's to be, or not to be, in the game.
+❣️ Please support us by purchasing this course on Udemy in an interactive version with the [discounted link](https://www.udemy.com/course/prince2-agile-foundation-practice-tests-exams/?referralCode=22414C6F67467585D536). If you're working for a company, you could most probably easily claim this expense during preparation for your exam. For us, it's to be, or not to be, in the game.
 
-🛍️ Alternatively, you can buy the PDF with those questions on [shop.ditectrev.com](https://shop.ditectrev.com/).
+🛍️ Alternatively, you can buy the PDF with those questions on [shop.ditectrev.com](https://shop.ditectrev.com/product/prince2-agile-foundation-practice-tests-exams-questions-answers).
 
 ## ✨ This course is unlike any PRINCE2 Agile Foundation course you will find online.
 
@@ -37,7 +37,7 @@
 
 ## ☝️ Course Updates
 
-**[v1.0.0](../../releases/tag/v1.0.0): July XX, 2024.**
+**[v1.0.0](../../releases/tag/v1.0.0): July 3, 2024.**
 
 - Launch of the course.
 
