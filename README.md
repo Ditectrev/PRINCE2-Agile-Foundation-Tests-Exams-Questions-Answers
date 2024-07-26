@@ -41,7 +41,7 @@
 
 - Launch of the course.
 
-**July 26, 2024.**
+**[v1.0.0](../../releases/tag/v1.0.0): July 26, 2024.**
 
 - AI-generated explanations (only paid [Udemy](https://www.udemy.com/course/prince2-agile-foundation-practice-tests-exams/?referralCode=22414C6F67467585D536)).
 
