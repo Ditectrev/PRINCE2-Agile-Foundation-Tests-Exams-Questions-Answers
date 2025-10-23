@@ -199,7 +199,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] To describe the MoSCoW priority of user stories.
 - [ ] To summarize the status of a work package.
 - [x] To summarize the stage status.
-- [ ] To report any potential issues and risks.
+- [x] To report any potential issues and risks.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -822,3 +822,4 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] By preventing the analysis of details at the start.
 
 **[⬆ Back to Top](#table-of-contents)**
+
