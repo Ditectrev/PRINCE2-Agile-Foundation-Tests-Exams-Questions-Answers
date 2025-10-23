@@ -332,9 +332,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which is a benefit of the Lean Startup approach to releasing a product?
 
 - [ ] It provide a technique to reduce the testing of a product before Release.
-- [x] It enables the Release plans to be synchronized with the PRINCE2 plans.
+- [ ] It enables the Release plans to be synchronized with the PRINCE2 plans.
 - [ ] It reduces the number of people needed to manage a Release of a product.
-- [ ] It provides quick feedback that can be responded to at the earliest opportunity.
+- [x] It provides quick feedback that can be responded to at the earliest opportunity.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -385,8 +385,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### During which process should Release planning be done for the FIRST time?
 
-- [ ] Initiating a project.
-- [x] Managing a stage boundary.
+- [x] Initiating a project.
+- [ ] Managing a stage boundary.
 - [ ] Managing product delivery.
 - [ ] Controlling a stage.
 
@@ -439,8 +439,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### What should be decided when configuring PRINCE2 effectively?
 
 - [ ] What to remove and where to add guidance.
-- [ ] Where to put the emphasis and where to add guidance.
-- [x] What to significantly change to create the right blend.
+- [x] Where to put the emphasis and where to add guidance.
+- [ ] What to significantly change to create the right blend.
 - [ ] Which areas are not enabled to work with agile.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -465,10 +465,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which statement explains the target 'be on time and hit deadlines' for flexible delivery?
 
-- [x] It reduces testing in order to meet deadlines.
+- [ ] It reduces testing in order to meet deadlines.
 - [ ] It sets the project baseline at the correct level.
 - [ ] It enables team dynamics to remain the same.
-- [ ] It improves the supplier's reputation with the customer.
+- [x] It improves the supplier's reputation with the customer.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -573,8 +573,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which is an advantage of using the PRINCE2 Agile behavior 'collaboration'?
 
-- [x] It ensures that there are no surprises.
-- [ ] It allows people to provide cover for one another.
+- [ ] It ensures that there are no surprises.
+- [x] It allows people to provide cover for one another.
 - [ ] It uses experimentation to expand requirements.
 - [ ] It uses learning to help improve products.
 
@@ -699,8 +699,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which statement about the 'protect the level of quality' target is CORRECT?
 
-- [x] It is achieved by ensuring that all features are delivered.
-- [ ] It is unlikely to be achieved if incomplete user documentation is provided.
+- [ ] It is achieved by ensuring that all features are delivered.
+- [x] It is unlikely to be achieved if incomplete user documentation is provided.
 - [ ] It allows change at the detailed level to be handled dynamically.
 - [ ] It avoids the use of extra people to improve progress during a Timebox.
 
@@ -780,8 +780,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which statement about the 'embrace change' target is CORRECT?
 
-- [x] It re-establishes team dynamics when a new member joins the team.
-- [ ] It trades user stories for those of a similar size.
+- [ ] It re-establishes team dynamics when a new member joins the team.
+- [x] It trades user stories for those of a similar size.
 - [ ] It results in the late delivery of the minimum viable product.
 - [ ] It degrades the performance of the features that are delivered.
 
@@ -817,9 +817,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### How does agile address the risk associated with the project not being fully understood at the beginning?
 
 - [ ] By allowing a lot of detail at the start.
-- [ ] By avoiding too much detail at the start.
+- [x] By avoiding too much detail at the start.
 - [ ] By requiring details at the start.
-- [x] By preventing the analysis of details at the start.
+- [ ] By preventing the analysis of details at the start.
 
 **[⬆ Back to Top](#table-of-contents)**
+
 
